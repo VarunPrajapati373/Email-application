@@ -1,4 +1,7 @@
-#Email-Application
+# Email-Application
+
+This project is based upon Spring boot framework. Here we are using spring web for creating Email API.
+And Merging that backend Service wih the GUI.
 
 # Emailgui
 
